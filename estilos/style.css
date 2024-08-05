@@ -49,3 +49,13 @@ div#imagem{
 
     
 }
+
+div#formulario h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario p{
+    text-align: center;
+    margin-bottom: 20px;
+}
